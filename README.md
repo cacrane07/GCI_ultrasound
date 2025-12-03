@@ -16,7 +16,7 @@ Marin Morrison
 
 ## Background of Grand Challenge 
 
-
+Toxic algal blooms, specifically those caused by increased reproduction of cyanobacteria, have become a growing concern for freshwater systems. When conditions tend to support their explosive growth, these blooms produce potent cyanotoxins which include: hepatotoxins, neurotoxins, and dermatoxins. These all-harm fish, wildlife, and even humans. Besides the  immediate toxins, very dense algal blooms block sunlight from reaching plants in the water. This disrupts photosynthesis and weakens aquatic habitats. As the algae begins to die and decompose, they start to release dissolved oxygen levels, leading to dead zones in fresh water systems that can kill fish and destabilize entire food webs. Toxic algal blooms pose a serious threat to ecosystem balance and highlight the urgent need for effective mitigation strategies.
 
 ## Specification
 
@@ -30,6 +30,17 @@ The 20kHz peak shown is an example of how we can control frequencies we would li
 
 ## Teamwork Reflection 
 
+Carrie Crane:
+
+Hannah Anderson: 
+
+Kayla Kim:
+
+Juliana Jordan: I took the lead on researching valid frequency ranges and identifying the optimal output frequency for minimizing neurotoxic emissions in the algae. I also conducted comparative research on freshwater versus saltwater algae to determine how their biological differences might affect our results. Throughout the project, I collaborated closely with my teammates to integrate these findings into our overall design.
+
+Lindsay Ross: 
+
+Marin Morrison: 
 
 ## Acknowledgement 
 
