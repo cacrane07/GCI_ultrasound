@@ -32,7 +32,7 @@ The 20kHz peak shown is an example of how we can control frequencies we would li
 
 Carrie Crane: I maintained a general knowledge of each aspect of the project to connect the tasks necessary for each part of the group. I worked heavily on the engineering side of the project and created the final schematic. I also created this GitHub repository containing our final deliverable. I worked with each person in the group to ensure everyones work would contribute to the final deliverable in some form. 
 
-Hannah Anderson: 
+Hannah Anderson: I helped out in the engineering side of the project. I worked with Carrie and Kayla to download new software and read new research papers to change up our design.Throughout the project, I communicated with my teammates through our weekly meetings and our group chat.
 
 Kayla Kim: My main role in our team was to help out on the engineering side of our ultrasonic sensor. I worked with Carrie and Hannah to learn the software we were using and also researched papers about the best frequencies to use for toxic algae blooms. Throughout the project, I collaborated well with my teammates by attending meetings, communicating through messages, and offering help where it was needed.
 
