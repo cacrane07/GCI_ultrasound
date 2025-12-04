@@ -34,11 +34,11 @@ Carrie Crane: I maintained a general knowledge of each aspect of the project to 
 
 Hannah Anderson: 
 
-Kayla Kim:
+Kayla Kim: My main role in our team was to help out on the engineering side of our ultrasonic sensor. I worked with Carrie and Hannah to learn the software we were using and also researched papers about the best frequencies to use for toxic algae blooms. Throughout the project, I collaborated well with my teammates by attending meetings, communicating through messages, and offering help where it was needed.
 
 Juliana Jordan: I took the lead on researching valid frequency ranges and identifying the optimal output frequency for minimizing neurotoxic emissions in the algae. I also conducted comparative research on freshwater versus saltwater algae to determine how their biological differences might affect our results. Throughout the project, I collaborated closely with my teammates to integrate these findings into our overall design.
 
-Lindsay Ross: 
+Lindsay Ross: I took the lead on the biology side of the project, researching places where the toxic blooms reside, how they can affect different species, and how we can collect to test. I also assisted Juliana on finding safe frequencies for different species of marine life. Throughout the project, I made sure to communicate clearly and effectively with my teammates, making sure we are(were) on the right track to test the sensor in GCI 250.
 
 Marin Morrison: 
 
