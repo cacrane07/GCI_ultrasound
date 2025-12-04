@@ -18,9 +18,13 @@ Marin Morrison
 
 Toxic algal blooms, specifically those caused by increased reproduction of cyanobacteria, have become a growing concern for freshwater systems. When conditions tend to support their explosive growth, these blooms produce potent cyanotoxins which include: hepatotoxins, neurotoxins, and dermatoxins. These all-harm fish, wildlife, and even humans. Besides the  immediate toxins, very dense algal blooms block sunlight from reaching plants in the water. This disrupts photosynthesis and weakens aquatic habitats. As the algae begins to die and decompose, they start to release dissolved oxygen levels, leading to dead zones in fresh water systems that can kill fish and destabilize entire food webs. Toxic algal blooms pose a serious threat to ecosystem balance and highlight the urgent need for effective mitigation strategies.
 
+## Approach
+
+Our group has proposed using an ultrasonic sensor that emits ultrasound waves to treat cyanobacteria. The ultrasound waves disrupt the buoyancy of the blooms by bursting their gas vesicles. This apporach allows the blooms to be slowly treated without further harming the environment. We want out sensor to emit an adjustable range of frequencies that can be adjusted to operate in a range that does not cause harm to local freshwater organisms. 
+
 ## Specification
 
-We created a schematic of a system that has 2 components: a transducer as a signal input, and a bandpass filter composed of a simple RLC circuit. 
+We created a schematic of a system that has 2 components: a transducer as a signal input, and a bandpass filter composed of a simple RLC circuit. In this case, the transducer is the hardware responsible for emitting the ultrasound waves.  
 
 The marimo notebook includes the graph of the transfer function which is a ratio of input vs output signal. It shows how the filter will focus on allowing frequencies only in the range of 20kHz, which is one of our desired frequenies for treating the cyanobacteria. 
 
@@ -29,6 +33,8 @@ The schematic is included as an image which shows the RLC circuit and the values
 The 20kHz peak shown is an example of how we can control frequencies we would like to use. To have an adjustable range of frequencies we can create a multipeak bandpass filter which is more advanced and will allow certain chosen frequencies to pass through. 
 
 ## Teamwork Reflection 
+
+Our team worked well together and regularly attended our group meetings. Each of our meetings were very efficient and we maintained communication throughout the semester. Each individual group member did their part of the work in a timely manner and their work always met the standards of other group members. 
 
 Carrie Crane: I maintained a general knowledge of each aspect of the project to connect the tasks necessary for each part of the group. I worked heavily on the engineering side of the project and created the final schematic. I also created this GitHub repository containing our final deliverable. I worked with each person in the group to ensure everyones work would contribute to the final deliverable in some form. 
 
@@ -45,3 +51,14 @@ Marin Morrison:
 ## Acknowledgement 
 
 The values in the schematic were calculated based on prior knowledge from the course EENG300 (Electronics & Circuits II). The structure of this notebook was generated based on knowledge from the course PHY323 (Scientific Computing II). All research for the necessary frequency range was done prior and presented in our final presentation. 
+
+## References
+
+Litaker, R. W., Krause, J., Lindo-Atichati, D., Vandersea, M. W., Dyble, J., Tester, P. A., … Baden, D. G. (2022). The effects of the harmful algal bloom species Karenia brevis on fish larvae: A case study. https://pmc.ncbi.nlm.nih.gov/articles/PMC10051689/ 
+
+Vaughan, L., Barnett, D., Bourke, E., Burrows, H., Robertson, F., Smith, B., … Zamyadi, A. (2023). Evaluating ultrasonicator performance for cyanobacteria management at freshwater sources. Toxins, 15(3), 186. https://doi.org/10.3390/toxins15030186 (PMC10051689) 
+
+Haolian Xu, Zhenzhen Tang, Zixuan Liang, Hongbin Chen, Xiaohu Dai Neglected methane production and toxicity risk in low-frequency ultrasound for controlling harmful algal blooms. ScienceDirect, (2023). https://www.sciencedirect.com/science/article/pii/S0013935123012264?via%3Dihub  
+
+Huang, H., Wu, G., Sheng, C., Jiannan, W., Li, D., Wang, H., & … (2020). Improved cyanobacteria removal from harmful algae blooms by two-cycle, low-frequency, low-density and short-duration ultrasonic radiation. Water, 12(9), 2431.https://www.researchgate.net/publication/343978855_Improved_Cyanobacteria_Removal_from_Harmful_Algae_Blooms_by_Two-Cycle_Low-Frequency_Low-Density_and_Short-Duration_Ultrasonic_Radiatio 
+
