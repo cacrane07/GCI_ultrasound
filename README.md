@@ -10,7 +10,7 @@ Toxic algal blooms, specifically those caused by increased reproduction of cyano
 
 ## Approach
 
-Our group has proposed using an ultrasonic sensor that emits ultrasound waves to treat cyanobacteria. The ultrasound waves disrupt the buoyancy of the blooms by bursting their gas vesicles. This apporach allows the blooms to be slowly treated without further harming the environment. We want out sensor to emit an adjustable range of frequencies that can be adjusted to operate in a range that does not cause harm to local freshwater organisms. 
+Our group has proposed using an ultrasonic sensor that emits ultrasound waves to treat cyanobacteria. The ultrasound waves disrupt the buoyancy of the blooms by bursting their gas vesicles. This approach allows the blooms to be slowly treated without further harming the environment. We want our sensor to emit an adjustable range of frequencies that can be adjusted to operate in a range that does not cause harm to local freshwater organisms. 
 
 ## Specification
 
