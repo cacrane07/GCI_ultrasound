@@ -2,17 +2,7 @@
 
 **Author(s):**
 
-Carrie Crane 
-
-Hannah Anderson 
-
-Kayla Kim 
-
-Juliana Jordan
-
-Lindsay Ross 
-
-Marin Morrison
+Carrie Crane , Hannah Anderson , Kayla Kim , Juliana Jordan , Lindsay Ross , Marin Morrison
 
 ## Background of Grand Challenge 
 
@@ -31,6 +21,9 @@ The marimo notebook includes the graph of the transfer function which is a ratio
 The schematic is included as an image which shows the RLC circuit and the values of the resistor, inductor, and capacitor all in practice. The final schematic is what we will build in GCI 250. The bandpass filter is necessary to prevent environmental noise from changing the applied signal. This schematic was generated in LTSpice and samples over frequencies from 1kHz to 200 kHz.
 
 The 20kHz peak shown is an example of how we can control frequencies we would like to use. To have an adjustable range of frequencies we can create a multipeak bandpass filter which is more advanced and will allow certain chosen frequencies to pass through. 
+## Timeline
+
+Although we did not exactly meet the process of our timeline, we followed it as closely as possible. Our biggest setback was after our meeting with our expert, where we learned our experiment was only feasible in fresh water, while the marine life we had researched was only in salt water. From this point our project pivoted, but we were able to still finish with a feasible project that can be executed in GCI250. Our sensor idea was changed primarily in terms of hardware since the type of water and type of organisms changed the frequency ranges that were safe to operate in practice. We expedited our last couple weeks of the timeline to meet our goals, but in the end we are very satisfied with our progress. 
 
 ## Teamwork Reflection 
 
@@ -46,7 +39,7 @@ Juliana Jordan: I took the lead on researching valid frequency ranges and identi
 
 Lindsay Ross: I took the lead on the biology side of the project, researching places where the toxic blooms reside, how they can affect different species, and how we can collect to test. I also assisted Juliana on finding safe frequencies for different species of marine life. Throughout the project, I made sure to communicate clearly and effectively with my teammates, making sure we are(were) on the right track to test the sensor in GCI 250.
 
-Marin Morrison: 
+Marin Morrison: I assisted Lindsay on the biology side of the project. Helping with research on the bloom's location and what frequencies, along with Juliana, are safe for different species of marine and aquatic life. I am also the group member with the expert contact, allowing me to play a central role in coordinating our biological testing methods, interpreting scientific literature, and communicating with our expert to ensure our project remains scientifically rigorous and ethically sound. Throughout the project, I made sure to collaborate with my teammates in our weekly meetings and group chat. 
 
 ## Acknowledgement 
 
