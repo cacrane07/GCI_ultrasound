@@ -30,7 +30,7 @@ The 20kHz peak shown is an example of how we can control frequencies we would li
 
 ## Teamwork Reflection 
 
-Carrie Crane:
+Carrie Crane: I maintained a general knowledge of each aspect of the project to connect the tasks necessary for each part of the group. I worked heavily on the engineering side of the project and created the final schematic. I also created this GitHub repository containing our final deliverable. I worked with each person in the group to ensure everyones work would contribute to the final deliverable in some form. 
 
 Hannah Anderson: 
 
